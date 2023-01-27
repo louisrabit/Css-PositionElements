@@ -1,0 +1,33 @@
+body{
+    background-color: lightblue;
+}
+
+
+header{
+    background-color: white;
+  padding-left: 100px;
+  padding-top: 30px;
+  padding-bottom: 15px;
+    
+}
+
+
+
+.nav-span{
+    font-size: 15px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-style: italic;
+    margin-left: 35px;
+
+}
+
+#image-cat{
+    width: 300px;
+    height: 250px;
+   margin-top: 200px;
+  /*  position: static; */
+  position: relative;
+  left: 200px;
+   
+}
+
